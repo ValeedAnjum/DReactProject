@@ -1,0 +1,14 @@
+.Shopingcardmodel{
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    background-color: white;
+    user-select: none;
+}
+.Shopingcardmodel *{
+    display: inline-block;
+}
+.Shopingcardmodel img{
+    width: 60%;
+    height: 60%;
+}

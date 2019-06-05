@@ -1,0 +1,8 @@
+.Back{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    opacity: 0.5;
+    background-color: black;
+}
